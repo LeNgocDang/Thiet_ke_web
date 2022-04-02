@@ -13,6 +13,6 @@
         <P>Trường: Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang<P>
      <Ol>
         <Li>Sở Thích<Li>
-            Ngành Yêu Thích 
+          Ngành Yêu Thích 
           
 </html>
