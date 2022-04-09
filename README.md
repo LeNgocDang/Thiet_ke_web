@@ -4,7 +4,7 @@
 </head>
 <body>
 	<p> Xin Chào Các Bạn </p>
-	<P> Tôi Tên Lê Ngọc Đăng </P>
+	<P> Tôi Tên : Lê Ngọc Đăng </p>
 	<p> Năm sinh: 17/11/2003 </p>
 	<p> Trường: Cao Đẳng Kĩ Thuật Công Nghệ Nha Trang </p>
      <Ol>      
